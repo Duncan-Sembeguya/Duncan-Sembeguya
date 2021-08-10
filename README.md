@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duncan-Sembeguya
-- 👀 I’m interested in ...data_analytics
-- 🌱 I’m currently learning ...Google_Data_Analytics_Proffessional_Certificate
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...data_analytics, data_science
+- 🌱 I’m currently learning ...R_Programming
+- 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...duncansembeguya@gmail.com
 
 <!---
