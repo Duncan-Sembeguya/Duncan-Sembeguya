@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Duncan-Sembeguya
 - 👀 I’m interested in ...data_analytics, data_science
-- 🌱 I’m currently learning ...R_Programming
+- 🌱 I’m currently learning ...R_Programming, Python
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...duncansembeguya@gmail.com
 
